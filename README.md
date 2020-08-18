@@ -1,6 +1,6 @@
 ### Hi there 👋, my name is Pedro
 #### I am Front-End Developer
-![I am Front-End Developer](https://pedro-donoso.github.io/smart_cities/)
+![I am Front-End Developer]
 
 Professional with high motivation to set and achieve goals, he is persuasive, people-oriented and determined.
 
