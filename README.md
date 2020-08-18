@@ -1,5 +1,5 @@
 ### Hi there 👋, my name is Pedro Eduardo
-#### I am Front-End Developer
+#### I am Front-End Developer & Geographic Information Systems (GIS) Analyst
 
 Professional with high motivation to set and achieve goals, he is persuasive, people-oriented and determined.
 
