@@ -17,3 +17,7 @@ Skills: VUE JS / JS / HTML / CSS
 
 ![Profile views](https://gpvc.arturio.dev/pedro-donoso)  
 
+more data:
+
+https://profile-summary-for-github.com/user/pedro-donoso
+
