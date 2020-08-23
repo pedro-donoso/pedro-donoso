@@ -3,12 +3,12 @@
 
 "His main value to the organization is his strong sense of motivation and determination to achieve a series of objectives, his optimism and enthusiasm allow him to work with a wide range of people."
 
-Skills: VUE JS / JS / HTML / CSS
+## Skills: VUE JS / JS / HTML / CSS
 
 - 🔭 I’m currently working on https://pedro-donoso.github.io/smart_cities/ 
 - 🌱 I’m currently learning Leaflet, OpenLayers, Webmaping in general 
 
-deploy sites:
+## Deployed Sites:
 
 https://app.netlify.com/teams/pedro-donoso/sites
 
