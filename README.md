@@ -3,10 +3,10 @@
 
 >"His main value to the organization is his strong sense of motivation and determination to achieve a series of objectives, his optimism and enthusiasm allow him to work with a wide range of people."
 
+## Skills: Vue JS | JavaScript | HTML | CSS
+
 - 🔭 I’m currently working on https://pedro-donoso.github.io/smart_cities/ 
 - 🌱 I’m currently learning Leaflet, OpenLayers, Webmaping in general 
-
-## Skills: Vue JS | JavaScript | HTML | CSS
 
 ## Deployed Sites:
 
@@ -22,7 +22,7 @@ https://app.netlify.com/teams/pedro-donoso/sites
 
 ![Profile views](https://gpvc.arturio.dev/pedro-donoso)  
 
-more data:
+## More data:
 
 https://profile-summary-for-github.com/user/pedro-donoso
 
