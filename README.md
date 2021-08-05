@@ -20,6 +20,8 @@ https://app.netlify.com/teams/pedro-donoso/sites
 
 ## More data:
 
-https://profile-summary-for-github.com/user/pedro-donoso
+[https://profile-summary-for-github.com/user/pedro-donoso](https://profile-summary-for-github.com/user/pedro-donoso)
+
+![](https://user-images.githubusercontent.com/68760595/128285546-90e7ec7f-ddb7-4627-ba28-a2830cd2d666.png)
 
 ![](https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif)
