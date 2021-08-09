@@ -16,8 +16,6 @@ https://app.netlify.com/teams/pedro-donoso/sites
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=pedro-donoso&show_icons=true)
 
-![Profile views](https://gpvc.arturio.dev/pedro-donoso)
-
 ## More data:
 
 [https://profile-summary-for-github.com/user/pedro-donoso](https://profile-summary-for-github.com/user/pedro-donoso)
@@ -28,4 +26,4 @@ https://www.credly.com/badges/d90a5f3d-dbd6-4242-b760-8236a9f44b5d?source=linked
 
 ![](https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif)
 
-![Github All Contributors](https://img.shields.io/github/all-contributors/all-contributors/all-contributors/master?style=for-the-badge)
+
