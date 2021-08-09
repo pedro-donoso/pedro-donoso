@@ -27,3 +27,5 @@ https://app.netlify.com/teams/pedro-donoso/sites
 https://www.credly.com/badges/d90a5f3d-dbd6-4242-b760-8236a9f44b5d?source=linked_in_profile
 
 ![](https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif)
+
+![Github All Contributors](https://img.shields.io/github/all-contributors/all-contributors/all-contributors/master?style=for-the-badge)
