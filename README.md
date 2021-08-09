@@ -26,4 +26,4 @@ https://www.credly.com/badges/d90a5f3d-dbd6-4242-b760-8236a9f44b5d?source=linked
 
 ![](https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?pedro-donoso=pedro-donoso&hide=javascript,css,scss,html&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pedro-donoso&hide=javascript,css,scss,html&theme=tokyonight)
