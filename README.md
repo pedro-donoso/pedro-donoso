@@ -15,9 +15,9 @@ https://app.netlify.com/teams/pedro-donoso/sites
 
 ## Statistics:
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=pedro-donoso&show_icons=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pedro-donoso&show_icons=true&theme=highcontrast&hide=contribs,prs,issues)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pedro-donoso&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pedro-donoso&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ## More data:
 
