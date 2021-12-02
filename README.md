@@ -33,3 +33,4 @@ https://www.credly.com/badges/d90a5f3d-dbd6-4242-b760-8236a9f44b5d?source=linked
 
 ![logica](https://user-images.githubusercontent.com/68760595/144439458-021d6e73-8b53-4b26-84ae-488f947df048.jpeg)
 
+![curador](https://user-images.githubusercontent.com/68760595/144439789-6ca63c53-874e-4a79-a9ee-f6f784c7b630.jpeg)
