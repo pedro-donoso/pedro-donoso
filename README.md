@@ -1,3 +1,4 @@
+![frontend](https://user-images.githubusercontent.com/68760595/144440117-31e060f7-a684-49dd-81d4-e4839b7756c1.jpeg)
 # Hi there 👋, my name is Pedro Eduardo
 
 #### I am Front-End Developer & Geographic Information Systems (GIS) Analyst
