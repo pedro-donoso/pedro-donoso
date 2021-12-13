@@ -21,6 +21,8 @@ https://app.netlify.com/teams/pedro-donoso/sites
 
 ## Certificates:
 
+[DIPLOMA_ECAMP.pdf](https://github.com/pedro-donoso/pedro-donoso/files/7704284/DIPLOMA_ECAMP.pdf)
+
 ![frontend](https://user-images.githubusercontent.com/68760595/144440117-31e060f7-a684-49dd-81d4-e4839b7756c1.jpeg)
 
 ![descarga](https://user-images.githubusercontent.com/68760595/144438971-56d656d2-9b64-4751-98eb-0b06c7e936bd.png)
