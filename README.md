@@ -2,7 +2,7 @@
 
 #### I am Front-End Developer & Geographic Information Systems (GIS) Analyst
 
-> "His main value to the organization is his strong sense of motivation and determination to achieve a series of objectives, his optimism and enthusiasm allow him to work with a wide range of people.".
+> "His main value to the organization is his strong sense of motivation and determination to achieve a series of objectives, his optimism and enthusiasm allow him to work with a wide range of people."
 
 
 ## Skills:
@@ -21,7 +21,7 @@ https://app.netlify.com/teams/pedro-donoso/sites
 
 ## Certificates:
 
-[DIPLOMA_ECAMP.pdf](https://github.com/pedro-donoso/pedro-donoso/files/7704284/DIPLOMA_ECAMP.pdf)
+![DIPLOMA_ECAMP_pages-to-jpg-0001](https://user-images.githubusercontent.com/68760595/145825229-7827e72e-50f3-4616-96d3-7e86d6975109.jpg)
 
 ![frontend](https://user-images.githubusercontent.com/68760595/144440117-31e060f7-a684-49dd-81d4-e4839b7756c1.jpeg)
 
