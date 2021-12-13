@@ -2,7 +2,7 @@
 
 #### I am Front-End Developer & Geographic Information Systems (GIS) Analyst
 
-> "His main value to the organization is his strong sense of motivation and determination to achieve a series of objectives, his optimism and enthusiasm allow him to work with a wide range of people."
+> "His main value to the organization is his strong sense of motivation and determination to achieve a series of objectives, his optimism and enthusiasm allow him to work with a wide range of people.".
 
 
 ## Skills:
