@@ -21,7 +21,7 @@ https://app.netlify.com/teams/pedro-donoso/sites
 
 ## Certificates:
 
-[certi_geo_rot.pdf](https://github.com/pedro-donoso/pedro-donoso/files/8653918/certi_geo_rot.pdf)
+![certif-geoint](https://user-images.githubusercontent.com/68760595/167466572-8719e20b-6d5f-4761-a81b-a1345b44ecb4.JPG)
 
 ![DIPLOMA_ECAMP_pages-to-jpg-0001](https://user-images.githubusercontent.com/68760595/145825229-7827e72e-50f3-4616-96d3-7e86d6975109.jpg)
 
