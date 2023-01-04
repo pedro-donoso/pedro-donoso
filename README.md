@@ -7,6 +7,9 @@
 
 ## Skills:
 
+![1012818_code_development_logo_nodejs_icon](https://user-images.githubusercontent.com/68760595/210570029-28916d35-32d5-4740-951b-01647ee2409d.png)
+
+
 <table><tbody><tr><td><figure class="image"><img src="https://user-images.githubusercontent.com/68760595/128284922-7b1b6a45-4714-426c-b9dc-9fc02eb82eb4.png">
   </figure></td><td>
   <figure class="image"><img src="https://user-images.githubusercontent.com/68760595/128285052-3ae1c9fb-a104-4896-ae23-43ba5ce5ee17.png"></figure>
