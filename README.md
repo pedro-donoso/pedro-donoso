@@ -28,7 +28,7 @@ https://app.netlify.com/teams/pedro-donoso/sites
 
 ## Certificates:
 
-[Diseño Web.pdf](https://github.com/pedro-donoso/pedro-donoso/files/10375010/Diseno.Web.pdf)
+![Diseño Web](https://user-images.githubusercontent.com/68760595/211356973-a7960ca4-486a-4872-bd6a-e9d5ed8d16df.jpg)
 
 ![certif-geoint](https://user-images.githubusercontent.com/68760595/167466572-8719e20b-6d5f-4761-a81b-a1345b44ecb4.JPG)
 
