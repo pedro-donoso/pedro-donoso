@@ -7,14 +7,13 @@
 
 ## Skills:
 
-<table><tbody><tr><td>
-<figure class="image"><img src="https://user-images.githubusercontent.com/68760595/128284922-7b1b6a45-4714-426c-b9dc-9fc02eb82eb4.png"></figure></td><td>
-<figure class="image"><img src="https://user-images.githubusercontent.com/68760595/128285052-3ae1c9fb-a104-4896-ae23-43ba5ce5ee17.png"></figure></td><td>
-<figure class="image"><img src="https://user-images.githubusercontent.com/68760595/210570029-28916d35-32d5-4740-951b-01647ee2409d.png"></figure></td><td>
-<figure class="image"><img src="https://user-images.githubusercontent.com/68760595/128284945-00cf07e9-83cc-4144-ab86-ca48d0adef01.png"></figure></td><td>
-<figure class="image"><img src="https://user-images.githubusercontent.com/68760595/128284978-6df19978-e774-4204-b5b4-cb73a4d36737.png"></figure></td><td>
-<figure class="image"><img src="https://user-images.githubusercontent.com/68760595/128284903-0ffaa2ed-23cd-4296-a56a-51e41f0d3fb5.png"></figure></td></tr>
-</tbody></table>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,js,html,css,ruby,vue,github,vscode,bash,gitlab,bootstrap,codepen,md,sass,linux,replit,rails,postman,postgres,nodejs,netlify,mongodb,matlab,autocad&theme=light&perline=12" />
+  </a>
+</p>
+
+
 
 ## Deployed Sites:
 
