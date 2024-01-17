@@ -27,6 +27,12 @@ https://app.netlify.com/teams/pedro-donoso/sites
 
 ## Certificates:
 
+![Webmapping Leaflet JS_page-0001](https://github.com/pedro-donoso/pedro-donoso/assets/68760595/590fb61a-ab23-4f41-9ef8-6f22a3b7d988)
+
+
+![Sistemas de Información Geográfica Catastral_page-0001](https://github.com/pedro-donoso/pedro-donoso/assets/68760595/0ebf9ae6-87b6-4b76-be0e-cc2a1a2e4d4a)
+
+
 ![1 Lugar Concurso Smart Cities](https://github.com/pedro-donoso/pedro-donoso/assets/68760595/af30f6bd-131f-4b24-be12-e92707404aae)
 
 
