@@ -27,6 +27,9 @@ https://app.netlify.com/teams/pedro-donoso/sites
 
 ## Certificates:
 
+![1 Lugar Concurso Smart Cities](https://github.com/pedro-donoso/pedro-donoso/assets/68760595/af30f6bd-131f-4b24-be12-e92707404aae)
+
+
 ![Metodología Agile](https://user-images.githubusercontent.com/68760595/211357229-ede2d88f-1c39-4712-b5e7-4d9436cdc68a.jpg)
 
 
