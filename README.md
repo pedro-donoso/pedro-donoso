@@ -4,12 +4,75 @@
 
 > "His main value to the organization is his strong sense of motivation and determination to achieve a series of objectives, his optimism and enthusiasm allow him to work with a wide range of people."
 
+## Lenguajes de Programación:
 
-## Skills:
-
-<p align="center">
+<p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,js,html,css,ruby,vue,github,vscode,bash,gitlab,bootstrap,codepen,md,sass,linux,replit,rails,postman,postgres,nodejs,netlify,mongodb,matlab,autocad&theme=light&perline=12" />
+    <img src="https://skillicons.dev/icons?i=js,ruby,matlab&theme=light&perline=12" />
+  </a>
+</p>
+
+## Desarrollo Frontend:
+
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,react,vue&theme=light&perline=12" />
+  </a>
+</p>
+
+## Generadores de Sitios estáticos:
+
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=astro&theme=light&perline=12" />
+  </a>
+</p>
+
+## Generadores de Sitios estáticos:
+
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=rails,nodejs,express&theme=light&perline=12" />
+  </a>
+</p>
+
+## Base de datos:
+
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=postgres,sqlite,mongo&theme=light&perline=12" />
+  </a>
+</p>
+
+## Platform as a Service (PaaS):
+
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=heroku,netlify,firebase&theme=light&perline=12" />
+  </a>
+</p>
+
+## DevOps:
+
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=linux,bash,powershell&theme=light&perline=12" />
+  </a>
+</p>
+
+## Sistema de control de versiones:
+
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,github,gitlab&theme=light&perline=12" />
+  </a>
+</p>
+
+## Software:
+
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=vscode,postman,figma,sketchup,codepen,md,sass,replit,autocad&theme=light&perline=12" />
   </a>
 </p>
 
