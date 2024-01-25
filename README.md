@@ -28,7 +28,7 @@
   </a>
 </p>
 
-## Generadores de Sitios estáticos:
+## Desarrollo Backend:
 
 <p align="left">
   <a href="https://skillicons.dev">
