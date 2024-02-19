@@ -96,6 +96,7 @@ https://app.netlify.com/teams/pedro-donoso/sites
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pedro-donoso&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
+[https://profile-summary-for-github.com/user/pedro-donoso](https://profile-summary-for-github.com/user/pedro-donoso)
 
 ## Credentials:
 
@@ -103,7 +104,7 @@ https://app.netlify.com/teams/pedro-donoso/sites
 
 https://www.acreditta.com/credential/18a72075-9c30-400c-85a4-20c9e84da025?utm_source=copy&resource_type=badge&resource=18a72075-9c30-400c-85a4-20c9e84da025
 
-[https://profile-summary-for-github.com/user/pedro-donoso](https://profile-summary-for-github.com/user/pedro-donoso)
+
 
 ![](https://user-images.githubusercontent.com/68760595/128285546-90e7ec7f-ddb7-4627-ba28-a2830cd2d666.png)
 
