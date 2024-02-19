@@ -96,6 +96,22 @@ https://app.netlify.com/teams/pedro-donoso/sites
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pedro-donoso&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
+
+## Credentials:
+
+![1708350026012](https://github.com/pedro-donoso/pedro-donoso/assets/68760595/dcc51706-f948-4b0f-8d69-fa8003e9c6a2)
+
+https://www.acreditta.com/credential/18a72075-9c30-400c-85a4-20c9e84da025?utm_source=copy&resource_type=badge&resource=18a72075-9c30-400c-85a4-20c9e84da025
+
+[https://profile-summary-for-github.com/user/pedro-donoso](https://profile-summary-for-github.com/user/pedro-donoso)
+
+![](https://user-images.githubusercontent.com/68760595/128285546-90e7ec7f-ddb7-4627-ba28-a2830cd2d666.png)
+
+https://www.credly.com/badges/d90a5f3d-dbd6-4242-b760-8236a9f44b5d?source=linked_in_profile
+
+![](https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif)
+
+
 ## Certificates:
 
 ![Webmapping Leaflet JS_page-0001](https://github.com/pedro-donoso/pedro-donoso/assets/68760595/590fb61a-ab23-4f41-9ef8-6f22a3b7d988)
@@ -125,12 +141,3 @@ https://app.netlify.com/teams/pedro-donoso/sites
 ![curador](https://user-images.githubusercontent.com/68760595/144439789-6ca63c53-874e-4a79-a9ee-f6f784c7b630.jpeg)
 
 
-## More data:
-
-[https://profile-summary-for-github.com/user/pedro-donoso](https://profile-summary-for-github.com/user/pedro-donoso)
-
-![](https://user-images.githubusercontent.com/68760595/128285546-90e7ec7f-ddb7-4627-ba28-a2830cd2d666.png)
-
-https://www.credly.com/badges/d90a5f3d-dbd6-4242-b760-8236a9f44b5d?source=linked_in_profile
-
-![](https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif)
