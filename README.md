@@ -8,7 +8,7 @@
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,ruby,matlab&theme=light&perline=12" />
+    <img src="https://skillicons.dev/icons?i=js,ruby,matlab,java&theme=dark&perline=12" />
   </a>
 </p>
 
@@ -16,7 +16,7 @@
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,react,vue&theme=light&perline=12" />
+    <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,react,vue&theme=dark&perline=12" />
   </a>
 </p>
 
@@ -32,7 +32,7 @@
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=rails,nodejs,express&theme=light&perline=12" />
+    <img src="https://skillicons.dev/icons?i=rails,nodejs,express&theme=dark&perline=12" />
   </a>
 </p>
 
@@ -40,7 +40,7 @@
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=postgres,sqlite,mongo&theme=light&perline=12" />
+    <img src="https://skillicons.dev/icons?i=postgres,sqlite,mongo&theme=dark&perline=12" />
   </a>
 </p>
 
@@ -48,7 +48,7 @@
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=heroku,netlify,firebase&theme=light&perline=12" />
+    <img src="https://skillicons.dev/icons?i=heroku,netlify,firebase&theme=dark&perline=12" />
   </a>
 </p>
 
@@ -56,7 +56,7 @@
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=linux,bash,powershell&theme=light&perline=12" />
+    <img src="https://skillicons.dev/icons?i=linux,bash,powershell&theme=dark&perline=12" />
   </a>
 </p>
 
@@ -64,7 +64,7 @@
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,gitlab&theme=light&perline=12" />
+    <img src="https://skillicons.dev/icons?i=git,github,gitlab&theme=dark&perline=12" />
   </a>
 </p>
 
@@ -80,7 +80,7 @@
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=vscode,postman,figma,sketchup,codepen,md,sass,replit,autocad&theme=light&perline=12" />
+    <img src="https://skillicons.dev/icons?i=vscode,postman,figma,sketchup,codepen,md,sass,replit,autocad&theme=dark&perline=12" />
   </a>
 </p>
 
