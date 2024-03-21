@@ -92,7 +92,7 @@ https://app.netlify.com/teams/pedro-donoso/sites
 
 ## Statistics:
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pedro-donoso&show_icons=true&theme=highcontrast&hide=contribs,prs,issues)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pedro-donoso&show_icons=true&theme=merko&hide=contribs,issues)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pedro-donoso&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
