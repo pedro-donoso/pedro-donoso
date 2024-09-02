@@ -60,14 +60,6 @@
   </a>
 </p>
 
-## Testing:
-
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=jest&theme=light&perline=12" />
-  </a>
-</p>
-
 ## Software:
 
 <p align="left">
