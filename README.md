@@ -32,7 +32,7 @@
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=postgres,sqlite,mongo,mysql&theme=dark&perline=12" />
+    <img src="https://skillicons.dev/icons?i=postgres,sqlite,mongo,mysql,supabase&theme=dark&perline=12" />
   </a>
 </p>
 
