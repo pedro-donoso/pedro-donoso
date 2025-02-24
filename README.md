@@ -24,7 +24,7 @@
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=rails,nodejs,express,spring,nestjs&theme=dark&perline=12" />
+    <img src="https://skillicons.dev/icons?i=rails,nodejs,express,spring,nestjs,prisma&theme=dark&perline=12" />
   </a>
 </p>
 
