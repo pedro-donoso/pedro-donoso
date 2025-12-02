@@ -99,6 +99,9 @@ https://www.credly.com/badges/d90a5f3d-dbd6-4242-b760-8236a9f44b5d?source=linked
 
 ## Certificates:
 
+![Analisis de Datos](https://media.licdn.com/dms/image/v2/D4E22AQHinzRqb1R6qw/feedshare-shrink_1280/B4EZrdRbRJIUAs-/0/1764648924494?e=1766016000&v=beta&t=ABT69tGL-7KKeqgk15BnoCyGIl1IHJQ6FaTDNCvQ-yk)
+
+
 ![Webmapping Leaflet JS_page-0001](https://github.com/pedro-donoso/pedro-donoso/assets/68760595/590fb61a-ab23-4f41-9ef8-6f22a3b7d988)
 
 
