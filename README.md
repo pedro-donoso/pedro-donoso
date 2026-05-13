@@ -79,7 +79,7 @@ https://app.netlify.com/teams/pedro-donoso/sites
 
 ![Skillnet](https://media.licdn.com/dms/image/v2/D4D22AQEpE-jrIatZgg/feedshare-shrink_1280/B4DZ4eyoCxJ8AQ-/0/1778633048544?e=1780531200&v=beta&t=vQ9h3EcYEGrazl2ngFDbjTxKVSX3aOIWu_W2rl3qxik)
 
-https://view.pok.tech/c/ee39da32-984d-400e-b6d6-7cada749b7a5?state=ee39da32-984d-400e-b6d6-7cada749b7a5@pok&code=AQScsru_ZS-TeimYVp3Toogi9Caya0H_Erfft6cmgvpj4S7JYi2xp4IzOCyqyzY_mnImXyRRqoQGsChxJ1XMUUTvfVrjz8rXHy_RzLHVyKZL4TPdGnoT2gy5Iao_MAtXJ8nZkwAClDpQD2dy5z4TTOmoB2UQKwmQ5baHOXfRczAMkl9h6iOid8SdaFJ4IT_1py0AGjD9A7eqe9zGb8g
+https://view.pok.tech/c/ee39da32-984d-400e-b6d6-7cada749b7a5
 
 ![DescargarCertificado_page-0001](https://github.com/user-attachments/assets/55e07ed5-1219-4842-b12c-542dd2acfb7b)
 
