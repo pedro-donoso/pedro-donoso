@@ -77,7 +77,7 @@ https://app.netlify.com/teams/pedro-donoso/sites
 
 ## Credentials:
 
-https://view.pok.tech/06e0a88b-4d68-4019-bddb-ad3aff961450
+[https://view.pok.tech/06e0a88b-4d68-4019-bddb-ad3aff961450](https://drive.google.com/file/d/10KiEwid0y5qC9e2QfIDkU1Wc4lY2WOE5/view)
 
 ![DescargarCertificado_page-0001](https://github.com/user-attachments/assets/55e07ed5-1219-4842-b12c-542dd2acfb7b)
 
