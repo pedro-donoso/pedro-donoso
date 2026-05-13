@@ -77,7 +77,7 @@ https://app.netlify.com/teams/pedro-donoso/sites
 
 ## Credentials:
 
-![](https://view.pok.tech/06e0a88b-4d68-4019-bddb-ad3aff961450)
+https://view.pok.tech/06e0a88b-4d68-4019-bddb-ad3aff961450
 
 ![DescargarCertificado_page-0001](https://github.com/user-attachments/assets/55e07ed5-1219-4842-b12c-542dd2acfb7b)
 
@@ -93,6 +93,8 @@ https://www.credly.com/badges/d90a5f3d-dbd6-4242-b760-8236a9f44b5d?source=linked
 
 
 ## Certificates:
+
+![FullStack Python Trainee](https://drive.google.com/file/d/10KiEwid0y5qC9e2QfIDkU1Wc4lY2WOE5/view?usp=drive_link)
 
 ![Analisis de Datos](https://media.licdn.com/dms/image/v2/D4E22AQHinzRqb1R6qw/feedshare-shrink_1280/B4EZrdRbRJIUAs-/0/1764648924494?e=1766016000&v=beta&t=ABT69tGL-7KKeqgk15BnoCyGIl1IHJQ6FaTDNCvQ-yk)
 
