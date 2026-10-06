@@ -77,8 +77,6 @@ https://app.netlify.com/teams/pedro-donoso/sites
 
 ## Credentials:
 
-![Skillnet](https://media.licdn.com/dms/image/v2/D4D22AQEpE-jrIatZgg/feedshare-shrink_1280/B4DZ4eyoCxJ8AQ-/0/1778633048544?e=1780531200&v=beta&t=vQ9h3EcYEGrazl2ngFDbjTxKVSX3aOIWu_W2rl3qxik)
-
 https://view.pok.tech/c/ee39da32-984d-400e-b6d6-7cada749b7a5
 
 ![DescargarCertificado_page-0001](https://github.com/user-attachments/assets/55e07ed5-1219-4842-b12c-542dd2acfb7b)
@@ -95,9 +93,6 @@ https://www.credly.com/badges/d90a5f3d-dbd6-4242-b760-8236a9f44b5d?source=linked
 
 
 ## Certificates:
-
-![Analisis de Datos](https://media.licdn.com/dms/image/v2/D4E22AQHinzRqb1R6qw/feedshare-shrink_1280/B4EZrdRbRJIUAs-/0/1764648924494?e=1778639228&v=beta&t=J881JDUYKFGAl20jXPtDNa48ltzCjoHnDW-ROf6v6FE)
-
 
 ![Webmapping Leaflet JS_page-0001](https://github.com/pedro-donoso/pedro-donoso/assets/68760595/590fb61a-ab23-4f41-9ef8-6f22a3b7d988)
 
